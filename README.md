@@ -18,4 +18,4 @@ This repository is only for testing purposes or you can take the packet structur
 
 
 ## Credits
-## Core created by [tailsjs](https://github.com/tailsjs/nodebrawl-core)   
+Core created by [tailsjs](https://github.com/tailsjs/nodebrawl-core)   
