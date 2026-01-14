@@ -11,7 +11,7 @@ A simple & lightweight private server for Clash Royale 2.1.8 (2017) written on N
 4. Now it is finished and you can use my client linked in the releases to connect to your server.
 
 ## Why does the game have like half the features not working?
-This repository is only for testing purposes or you can take the packet structure and make a whole new server, you need to implement all the packets and logic yourself.
+This repository is only for testing purposes or you can take the packet structures and make a whole new server, you need to implement all the packets and logic yourself.
 
 
 ![screen](/Screens/game.png)
@@ -19,3 +19,4 @@ This repository is only for testing purposes or you can take the packet structur
 
 ## Credits
 Core created by [tailsjs](https://github.com/tailsjs/nodebrawl-core)   
+
