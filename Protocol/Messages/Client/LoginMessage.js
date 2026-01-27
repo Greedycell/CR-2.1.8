@@ -1,5 +1,4 @@
 const PiranhaMessage = require('../../PiranhaMessage')
-const LoginFailedMessage = require('../Server/LoginFailedMessage')
 const LoginOkMessage = require('../Server/LoginOkMessage')
 const OwnHomeDataMessage = require('../Server/OwnHomeDataMessage')
 
